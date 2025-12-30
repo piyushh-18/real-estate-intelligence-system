@@ -46,6 +46,28 @@ Real Estate Intelligence System is an end-to-end machine learning project design
 __ .gitignore #git ignore rules 
 
 
+
+## Python App with Random Forest Prediction
+
+ --This project is a California Housing Price Predictor built in Python using a Random Forest Regressor.
+
+# Features:
+
+User-friendly CLI app (app.py) to input housing details:
+. Longitude & Latitude
+. Median Income
+. Housing Median Age
+. total Rooms
+. population
+. Households
+
+The app predicts the house price using the trained Random Forest model.
+
+Achieved R² Score: 0.81, showing good predictive performance.
+
+Provides estimated average house price for nearby houses.
+
+
 ## Author
 **Piyush kumar** – Aspiring Data Scientist  
 - 📧 Email: piyushhkumar18@gmail.com  
